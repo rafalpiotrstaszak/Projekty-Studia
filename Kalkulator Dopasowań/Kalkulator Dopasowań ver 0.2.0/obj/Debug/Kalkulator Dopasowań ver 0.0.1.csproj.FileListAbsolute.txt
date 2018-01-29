@@ -1,0 +1,24 @@
+D:\3. INFORMATYKA\Programowanie\Kalkulator Dopasowań\Kalkulator Dopasowań\Kalkulator Dopasowań ver 0.0.1\bin\Debug\Kalkulator Dopasowań.exe
+D:\3. INFORMATYKA\Programowanie\Kalkulator Dopasowań\Kalkulator Dopasowań\Kalkulator Dopasowań ver 0.0.1\bin\Debug\Kalkulator Dopasowań.pdb
+D:\3. INFORMATYKA\Programowanie\Kalkulator Dopasowań\Kalkulator Dopasowań\Kalkulator Dopasowań ver 0.0.1\obj\Debug\Kalkulator Dopasowań ver 0.0.1.csprojResolveAssemblyReference.cache
+D:\3. INFORMATYKA\Programowanie\Kalkulator Dopasowań\Kalkulator Dopasowań\Kalkulator Dopasowań ver 0.0.1\obj\Debug\Kalkulator_Dopasowań.kalkulator.resources
+D:\3. INFORMATYKA\Programowanie\Kalkulator Dopasowań\Kalkulator Dopasowań\Kalkulator Dopasowań ver 0.0.1\obj\Debug\Kalkulator_Dopasowań.menu.resources
+D:\3. INFORMATYKA\Programowanie\Kalkulator Dopasowań\Kalkulator Dopasowań\Kalkulator Dopasowań ver 0.0.1\obj\Debug\Kalkulator_Dopasowań.Properties.Resources.resources
+D:\3. INFORMATYKA\Programowanie\Kalkulator Dopasowań\Kalkulator Dopasowań\Kalkulator Dopasowań ver 0.0.1\obj\Debug\Kalkulator Dopasowań ver 0.0.1.csproj.GenerateResource.Cache
+D:\3. INFORMATYKA\Programowanie\Kalkulator Dopasowań\Kalkulator Dopasowań\Kalkulator Dopasowań ver 0.0.1\obj\Debug\Kalkulator Dopasowań.exe
+D:\3. INFORMATYKA\Programowanie\Kalkulator Dopasowań\Kalkulator Dopasowań\Kalkulator Dopasowań ver 0.0.1\obj\Debug\Kalkulator Dopasowań.pdb
+D:\3. INFORMATYKA\Programowanie\Kalkulator Dopasowań\Kalkulator Dopasowań\Kalkulator Dopasowań ver 0.0.1\obj\Debug\Kalkulator_Dopasowań.edytor.resources
+D:\3. INFORMATYKA\Programowanie\Kalkulator Dopasowań\Kalkulator Dopasowań\Kalkulator Dopasowań ver 0.0.1\obj\Debug\Kalkulator_Dopasowań.instrukcja.resources
+E:\Kalkulator Dopasowań\Kalkulator Dopasowań\Kalkulator Dopasowań ver 0.0.1\obj\Debug\Kalkulator Dopasowań.exe
+E:\Kalkulator Dopasowań\Kalkulator Dopasowań\Kalkulator Dopasowań ver 0.0.1\obj\Debug\Kalkulator Dopasowań.pdb
+E:\Kalkulator Dopasowań\Kalkulator Dopasowań\Kalkulator Dopasowań ver 0.0.1\bin\Debug\Kalkulator Dopasowań.exe
+E:\Kalkulator Dopasowań\Kalkulator Dopasowań\Kalkulator Dopasowań ver 0.0.1\bin\Debug\Kalkulator Dopasowań.pdb
+E:\Kalkulator Dopasowań\Kalkulator Dopasowań\Kalkulator Dopasowań ver 0.0.1\obj\Debug\Kalkulator Dopasowań ver 0.0.1.csprojResolveAssemblyReference.cache
+E:\Kalkulator Dopasowań\Kalkulator Dopasowań\Kalkulator Dopasowań ver 0.0.1\obj\Debug\Kalkulator_Dopasowań.edytor.resources
+E:\Kalkulator Dopasowań\Kalkulator Dopasowań\Kalkulator Dopasowań ver 0.0.1\obj\Debug\Kalkulator_Dopasowań.instrukcja.resources
+E:\Kalkulator Dopasowań\Kalkulator Dopasowań\Kalkulator Dopasowań ver 0.0.1\obj\Debug\Kalkulator_Dopasowań.kalkulator.resources
+E:\Kalkulator Dopasowań\Kalkulator Dopasowań\Kalkulator Dopasowań ver 0.0.1\obj\Debug\Kalkulator_Dopasowań.menu.resources
+E:\Kalkulator Dopasowań\Kalkulator Dopasowań\Kalkulator Dopasowań ver 0.0.1\obj\Debug\Kalkulator_Dopasowań.Properties.Resources.resources
+E:\Kalkulator Dopasowań\Kalkulator Dopasowań\Kalkulator Dopasowań ver 0.0.1\obj\Debug\Kalkulator Dopasowań ver 0.0.1.csproj.GenerateResource.Cache
+E:\Kalkulator Dopasowań\Kalkulator Dopasowań\Kalkulator Dopasowań ver 0.0.2\obj\Debug\Kalkulator Dopasowań.exe
+E:\Kalkulator Dopasowań\Kalkulator Dopasowań\Kalkulator Dopasowań ver 0.0.2\obj\Debug\Kalkulator Dopasowań.pdb

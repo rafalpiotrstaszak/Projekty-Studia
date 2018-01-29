@@ -1,0 +1,30 @@
+# Project: Gra w oczko
+# Makefile created by Dev-C++ 4.9.9.2
+
+CPP  = g++.exe
+CC   = gcc.exe
+WINDRES = windres.exe
+RES  = 
+OBJ  = "Gra\ w\ oczko.o" $(RES)
+LINKOBJ  = "Gra w oczko.o" $(RES)
+LIBS =  -L"D:/PROGRAMY/Dev-Cpp/lib"  
+INCS =  -I"D:/PROGRAMY/Dev-Cpp/include" 
+CXXINCS =  -I"D:/PROGRAMY/Dev-Cpp/lib/gcc/mingw32/3.4.2/include"  -I"D:/PROGRAMY/Dev-Cpp/include/c++/3.4.2/backward"  -I"D:/PROGRAMY/Dev-Cpp/include/c++/3.4.2/mingw32"  -I"D:/PROGRAMY/Dev-Cpp/include/c++/3.4.2"  -I"D:/PROGRAMY/Dev-Cpp/include" 
+BIN  = "Gra w oczko.exe"
+CXXFLAGS = $(CXXINCS)  
+CFLAGS = $(INCS)  
+RM = rm -f
+
+.PHONY: all all-before all-after clean clean-custom
+
+all: all-before "Gra w oczko.exe" all-after
+
+
+clean: clean-custom
+	${RM} $(OBJ) $(BIN)
+
+$(BIN): $(OBJ)
+	$(CPP) $(LINKOBJ) -o "Gra w oczko.exe" $(LIBS)
+
+"Gra\ w\ oczko.o": Gra\ w\ oczko.cpp
+	$(CPP) -c "Gra w oczko.cpp" -o "Gra w oczko.o" $(CXXFLAGS)

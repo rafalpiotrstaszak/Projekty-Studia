@@ -1,0 +1,18 @@
+c:\users\rstaszak1\documents\visual studio 2015\Projects\ObliczaniePI_Monte_Carlo\ObliczaniePI_Monte_Carlo\bin\Debug\ObliczaniePI_Monte_Carlo.exe.config
+c:\users\rstaszak1\documents\visual studio 2015\Projects\ObliczaniePI_Monte_Carlo\ObliczaniePI_Monte_Carlo\obj\Debug\ObliczaniePI_Monte_Carlo.csprojResolveAssemblyReference.cache
+c:\users\rstaszak1\documents\visual studio 2015\Projects\ObliczaniePI_Monte_Carlo\ObliczaniePI_Monte_Carlo\obj\Debug\ObliczaniePI_Monte_Carlo.Form1.resources
+c:\users\rstaszak1\documents\visual studio 2015\Projects\ObliczaniePI_Monte_Carlo\ObliczaniePI_Monte_Carlo\obj\Debug\ObliczaniePI_Monte_Carlo.Properties.Resources.resources
+c:\users\rstaszak1\documents\visual studio 2015\Projects\ObliczaniePI_Monte_Carlo\ObliczaniePI_Monte_Carlo\obj\Debug\ObliczaniePI_Monte_Carlo.csproj.GenerateResource.Cache
+c:\users\rstaszak1\documents\visual studio 2015\Projects\ObliczaniePI_Monte_Carlo\ObliczaniePI_Monte_Carlo\bin\Debug\ObliczaniePI_Monte_Carlo.exe
+c:\users\rstaszak1\documents\visual studio 2015\Projects\ObliczaniePI_Monte_Carlo\ObliczaniePI_Monte_Carlo\bin\Debug\ObliczaniePI_Monte_Carlo.pdb
+c:\users\rstaszak1\documents\visual studio 2015\Projects\ObliczaniePI_Monte_Carlo\ObliczaniePI_Monte_Carlo\obj\Debug\ObliczaniePI_Monte_Carlo.exe
+c:\users\rstaszak1\documents\visual studio 2015\Projects\ObliczaniePI_Monte_Carlo\ObliczaniePI_Monte_Carlo\obj\Debug\ObliczaniePI_Monte_Carlo.pdb
+H:\ObliczaniePI_Monte_Carlo\ObliczaniePI_Monte_Carlo\bin\Debug\ObliczaniePI_Monte_Carlo.exe.config
+H:\ObliczaniePI_Monte_Carlo\ObliczaniePI_Monte_Carlo\obj\Debug\ObliczaniePI_Monte_Carlo.exe
+H:\ObliczaniePI_Monte_Carlo\ObliczaniePI_Monte_Carlo\obj\Debug\ObliczaniePI_Monte_Carlo.pdb
+H:\ObliczaniePI_Monte_Carlo\ObliczaniePI_Monte_Carlo\bin\Debug\ObliczaniePI_Monte_Carlo.exe
+H:\ObliczaniePI_Monte_Carlo\ObliczaniePI_Monte_Carlo\bin\Debug\ObliczaniePI_Monte_Carlo.pdb
+H:\ObliczaniePI_Monte_Carlo\ObliczaniePI_Monte_Carlo\obj\Debug\ObliczaniePI_Monte_Carlo.csprojResolveAssemblyReference.cache
+H:\ObliczaniePI_Monte_Carlo\ObliczaniePI_Monte_Carlo\obj\Debug\ObliczaniePI_Monte_Carlo.Form1.resources
+H:\ObliczaniePI_Monte_Carlo\ObliczaniePI_Monte_Carlo\obj\Debug\ObliczaniePI_Monte_Carlo.Properties.Resources.resources
+H:\ObliczaniePI_Monte_Carlo\ObliczaniePI_Monte_Carlo\obj\Debug\ObliczaniePI_Monte_Carlo.csproj.GenerateResource.Cache
